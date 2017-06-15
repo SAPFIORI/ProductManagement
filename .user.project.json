@@ -1,0 +1,32 @@
+{
+  "run": [
+    {
+      "filePath": "/nw.epm.refapps.ext.prod.manage/webapp/test/testFLPService.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": "",
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": ""
+        }
+      ],
+      "hashParameter": "",
+      "backendSystem": [
+        {
+          "source": "RefAppsBackend",
+          "destinations": ""
+        }
+      ],
+      "_metadata": {
+        "id": 9065182,
+        "runnerId": "webapprunner",
+        "displayName": "Run testFLPService.html",
+        "lastRunTimeStamp": 1497534418766
+      }
+    }
+  ]
+}
